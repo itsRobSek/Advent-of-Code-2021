@@ -1,3 +1,5 @@
+Here are my solutions to the Advent of Code 2021 puzzles. Each day's puzzles are sorted by folder.
+
 # Advent-of-Code-2021
 https://adventofcode.com/2021
 
